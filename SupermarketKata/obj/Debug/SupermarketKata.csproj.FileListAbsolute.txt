@@ -1,0 +1,7 @@
+C:\Users\chaynes\source\repos\SupermarketKata\SupermarketKata\bin\Debug\SupermarketKata.exe.config
+C:\Users\chaynes\source\repos\SupermarketKata\SupermarketKata\bin\Debug\SupermarketKata.exe
+C:\Users\chaynes\source\repos\SupermarketKata\SupermarketKata\bin\Debug\SupermarketKata.pdb
+C:\Users\chaynes\source\repos\SupermarketKata\SupermarketKata\obj\Debug\SupermarketKata.csprojAssemblyReference.cache
+C:\Users\chaynes\source\repos\SupermarketKata\SupermarketKata\obj\Debug\SupermarketKata.csproj.CoreCompileInputs.cache
+C:\Users\chaynes\source\repos\SupermarketKata\SupermarketKata\obj\Debug\SupermarketKata.exe
+C:\Users\chaynes\source\repos\SupermarketKata\SupermarketKata\obj\Debug\SupermarketKata.pdb
